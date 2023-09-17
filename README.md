@@ -7,4 +7,4 @@ IPTV直播源抓取
 
 [央视台+卫视台直播源](https://raw.githubusercontent.com/joevess/IPTV/main/home.m3u8)
 
-[央视台+卫视台+其他地方台直播源](https://raw.githubusercontent.com/joevess/IPTV/main/home.m3u8)（暂补全,待完善）
+[央视台+卫视台+其他地方台直播源](https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8)（暂补全,待完善）
