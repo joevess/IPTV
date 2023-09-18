@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 group-title="央视台" tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417122028616.jpg",CCTV1
-http://hls.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-logo="http://tv.haoqu99.com/d/file/2015/1121/20151121054000406.jpg",CCTV2
 http://106.39.160.148/live.aishang.ctlcdn.com/00000110240244_1/playlist.m3u8
 #EXTINF:-1 group-title="央视台" tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417122415328.jpg",CCTV3
 http://hls.live.cqccn.com/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417121142598.jpg",CCTV4
-http://hls.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417122518526.jpg",CCTV5
-http://hls.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f/index.m3u8
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-logo="http://tv.haoqu99.com/d/file/2014/0722/20140722110316660.jpg",CCTV5+频道
 http://hls.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417121648885.jpg",CCTV6
@@ -16,17 +16,17 @@ http://hls.live.cqccn.com/__cl/cg:live/__c/cctv6HD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-logo="http://tv.haoqu99.com/d/file/2019/0801/small444e0da9ff30e7a8b15bc7ef2361b460.jpg",CCTV7
 http://hls.live.cqccn.com/__cl/cg:live/__c/cctv7HD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-logo="http://tv.haoqu99.com/d/file/2015/1121/20151121053223686.jpg",CCTV8
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
+http://hls.live.cqccn.com/__cl/cg:live/__c/cctv8HD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-logo="http://tv.haoqu99.com/d/file/2016/1116/ac1b6cdd2a6770e421c757b4a45dcebc.jpg",CCTV9
 http://hls.live.cqccn.com/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-logo="http://tv.haoqu99.com/d/file/2015/1121/20151121053338284.jpg",CCTV10
-http://106.39.160.148/live.aishang.ctlcdn.com/00000110240251_1/playlist.m3u8
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-logo="http://tv.haoqu99.com/d/file/2015/1121/20151121054153126.jpg",CCTV11
 http://hls.live.cqccn.com/__cl/cg:live/__c/cctv11HD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417122248935.jpg",CCTV12
 http://hls.live.cqccn.com/__cl/cg:live/__c/cctv12HD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417122151660.jpg",CCTV13
-http://hls.live.cqccn.com/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f/index.m3u8
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-logo="http://tv.haoqu99.com/d/file/2015/1121/20151121054259469.jpg",CCTV14
 http://106.39.160.148/live.aishang.ctlcdn.com/00000110240253_1/playlist.m3u8
 #EXTINF:-1 group-title="央视台" tvg-logo="http://tv.haoqu99.com/d/file/2015/1121/20151121054325579.jpg",CCTV15
@@ -34,9 +34,9 @@ http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/inde
 #EXTINF:-1 group-title="央视台" tvg-logo="http://tv.haoqu99.com/d/file/2023/0526/small7d7ad6e2be4c77313eb6094e1419eafa1685091476.jpg",CCTV16
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-logo="http://tv.haoqu99.com/d/file/2019/0801/2bc42b992ea918b8649261476ad427b9.png",CGTN NEWS
-https://iptv.luas.edu.cn/liverespath/42085633aae0f63aebc607259e815b0088ab8017/bc4d4a5956-0-0-71f3b1623beea0cd8e54001ec3d03b4e/index.m3u8
+https://iptv.luas.edu.cn/liverespath/42085633aae0f63aebc607259e815b0088ab8017/ca0dc202c5-0-0-d5609cc3407d7afb6b19072c08954e95/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-logo="http://tv.haoqu99.com/d/file/2019/0801/71df0109699dbb852dd78d52946743ab.png",CGTN法语频道
-https://livefr.cgtn.com/1000f/prog_index.m3u8
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 #EXTINF:-1 group-title="央视台" tvg-logo="http://tv.haoqu99.com/d/file/2019/0801/d8e3179f67050fda7017015953e079b2.png",CGTN西语频道
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 #EXTINF:-1 group-title="央视台" tvg-logo="http://tv.haoqu99.com/d/file/2019/0801/82658c3a473c5ce97bb781b8551714f2.png",CGTN俄语频道
@@ -54,21 +54,21 @@ http://hls.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-logo="http://tv.haoqu99.com/d/file/2015/1121/20151121053553871.jpg",CCTV风云音乐频道
 http://hls.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-logo="http://tv.haoqu99.com/d/file/2015/1121/20151121055049793.jpg",CCTV风云剧场频道
-http://hls.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8
+http://hls.live.cqccn.com/__cl/cg:live/__c/shandongHD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-logo="http://tv.haoqu99.com/d/file/2016/1116/b16431a9f7728dbe6aa30c9b86cc5523.jpg",CETV1中国教育电视台一套
-https://iptv.luas.edu.cn/liverespath/85558d86e1bcab9405a28515bc414ba3676ecbde/471627edb2-0-0-09615a081de42c77e14e38259ba05671/index.m3u8
+https://iptv.luas.edu.cn/liverespath/85558d86e1bcab9405a28515bc414ba3676ecbde/a66748b083-0-0-3e2e1e794c8f552249c8a3e8cfbaa80a/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-logo="http://tv.haoqu99.com/d/file/2016/1116/178aa07928c5f776b297e669ac21f29a.jpg",CETV3中国教育电视台三套
-https://iptv.luas.edu.cn/liverespath/3a13f3b554cd6c3764599392bb43650e4e015b87/f3f3732d0f-0-0-fe863059a5ed669264aa905c47a8cc83/index.m3u8
+https://iptv.luas.edu.cn/liverespath/3a13f3b554cd6c3764599392bb43650e4e015b87/75456b4004-0-0-1ebe4b9d2167474d7d30eb283c5012eb/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-logo="http://tv.haoqu99.com/d/file/2016/1116/0dc1732a6e6d5bf34b4beef698b97bba.jpg",CETV4空中课堂频道
-https://iptv.luas.edu.cn/liverespath/d9fd740848ee6bc5d883832bba7cafb90524390e/b41141d868-0-0-ae977cc120dcab4684b3ac3301bcd778/index.m3u8
+https://iptv.luas.edu.cn/liverespath/d9fd740848ee6bc5d883832bba7cafb90524390e/fa8e9ba1fd-0-0-212c68af7fff123edbc0f02394ac4a0b/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-logo="http://tv.haoqu99.com/d/file/2016/1116/5adfa2bb145deabe40ef19300decbbee.jpg",CHC动作电影频道
-http://hls.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
+http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-logo="http://tv.haoqu99.com/d/file/2016/1116/c21b75764f94cb95e95b7973631d57dd.jpg",CHC家庭影院频道
 http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-logo="http://tv.haoqu99.com/d/file/2016/1021/fdbd0781c2d7d6404320dd4890ced2b1.jpg",CHC高清电影频道
 http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-logo="http://tv.haoqu99.com/d/file/2014/1014/20141014100423640.jpg",湖南卫视
-https://iptv.luas.edu.cn/liverespath/9b1ccba5a2c611bb5d7c96243695572090cca5fd/f5c7cdbc5d-0-0-b35b63cf13679309c07b2b0846d3a317/index.m3u8
+http://hls.live.cqccn.com/__cl/cg:live/__c/hunanHD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417123051441.jpg",浙江卫视
 http://hls.live.cqccn.com/__cl/cg:live/__c/zhejiangHD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417122845956.jpg",东方卫视
@@ -78,47 +78,45 @@ http://hls.live.cqccn.com/__cl/cg:live/__c/jiangsuHD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-logo="http://tv.haoqu99.com/d/file/2014/0116/20140116014331377.jpg",安徽卫视
 http://106.39.160.148/live.aishang.ctlcdn.com/00000110240256_1/playlist.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-logo="http://tv.haoqu99.com/d/file/2018/0517/small0796d1332aadb73c05adfdce6a6ecbce.jpg",重庆卫视
-https://sjlivecdn9.cbg.cn/202309171806/app_2/_definst_/ls_2.stream/chunklist.m3u8
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240397_1/playlist.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417123002151.jpg",BTV北京卫视
 http://106.39.160.148/live.aishang.ctlcdn.com/00000110240129_1/playlist.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-logo="http://tv.haoqu99.com/d/file/2016/1107/b07ac3b17af177a9cbfc42de044e269b.jpg",天津卫视
-https://iptv.luas.edu.cn/liverespath/4e093970ef5ac9a7ed0957f93c49dfc23f5dc1f0/0df482218e-0-0-16e15e682ff355a9ec58bf2c33b50c93/index.m3u8
+http://hls.live.cqccn.com/__cl/cg:live/__c/tianjinHD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-logo="http://tv.haoqu99.com/d/file/2014/0116/20140116014711584.jpg",辽宁卫视
-https://iptv.luas.edu.cn/liverespath/73aedb8ffd21b3b8afe4664591d4cb3a5cced827/8201219e2f-0-0-cff4683bce01aacd4cdb4fd914e12bb9/index.m3u8
+http://hls.live.cqccn.com/__cl/cg:live/__c/liaoningHD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-logo="http://tv.haoqu99.com/d/file/2014/0722/20140722104840995.jpg",江西卫视
-https://iptv.luas.edu.cn/liverespath/5262d7f97311b82a4a460f3b8221e4a7d394c2c0/5d38526819-0-0-76c1a86a16e67b4063bdc5b2f74557df/index.m3u8
+https://iptv.luas.edu.cn/liverespath/5262d7f97311b82a4a460f3b8221e4a7d394c2c0/5e21769ac2-0-0-4d5fe0466c7fa6a66f1cc6cd2d19849b/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-logo="http://tv.haoqu99.com/d/file/2014/0728/20140728092337481.jpg",黑龙江卫视
-http://hls.live.cqccn.com/__cl/cg:live/__c/heilongjiangHD/__op/default/__f/index.m3u8
+https://iptv.luas.edu.cn/liverespath/fe1745c7599e85d0a34fa0ad3986ef25c2ed7c6f/4e849c0d6b-0-0-dadfc03f45669bc1d36d9ef9569e1611/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-logo="http://tv.haoqu99.com/d/file/2014/0116/20140116020537123.jpg",山东卫视
-https://iptv.luas.edu.cn/liverespath/8b205af319dcc92c60a69a96423af21b24a29ca0/0534e7bd65-0-0-51bafae4c7740962e01228decccc5783/index.m3u8
+https://iptv.luas.edu.cn/liverespath/8b205af319dcc92c60a69a96423af21b24a29ca0/a01f10faff-0-0-0d156c265d7c72a80e0b7418eab80a78/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417123156974.jpg",云南卫视
 http://hls.live.cqccn.com/__cl/cg:live/__c/yunnanSD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-logo="http://tv.haoqu99.com/d/file/2014/0722/20140722105013368.jpg",四川卫视
-https://iptv.luas.edu.cn/liverespath/ca3f021632b48e6960797776657926074723d276/51ee3eae97-0-0-c3f4b982321ec739571d7774bf0948fd/index.m3u8
+http://hls.live.cqccn.com/__cl/cg:live/__c/sichuanHD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-logo="http://tv.haoqu99.com/d/file/2014/0116/20140116013947688.jpg",河南卫视
 http://hls.live.cqccn.com/__cl/cg:live/__c/henanHD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417123256441.jpg",广东卫视
-https://iptv.luas.edu.cn/liverespath/15ffaebbcf96b0db07428df057c171c2743055e6/2ac1fd5b7a-0-0-5ee2ac55e4988866f172cf096f1f85ad/index.m3u8
+http://hls.live.cqccn.com/__cl/cg:live/__c/guangdongHD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-logo="http://tv.haoqu99.com/d/file/2014/0101/20140101082127540.jpg",深圳卫视
-https://iptv.luas.edu.cn/liverespath/536ebe8b7165b25c8670e42eb8b7b4b6d178f158/cb36613691-0-0-f76cb703282acc2fd534c413c1903164/index.m3u8
+http://hls.live.cqccn.com/__cl/cg:live/__c/shenzhenHD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417123343786.jpg",湖北卫视
 http://hls.live.cqccn.com/__cl/cg:live/__c/hubeiSD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417123421472.jpg",东南卫视
 http://hls.live.cqccn.com/__cl/cg:live/__c/dongnanHD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-logo="http://tv.haoqu99.com/d/file/2016/1019/4a991cd85dd7502f614f7b9774210b50.jpg",厦门卫视
-https://iptv.luas.edu.cn/liverespath/151ef24b315bb7709d1a2f7a35d260932c6e9eb5/7336f7e4ff-0-0-53f13ccef9fa096d17f3fb1c4a223a82/index.m3u8
+https://iptv.luas.edu.cn/liverespath/151ef24b315bb7709d1a2f7a35d260932c6e9eb5/1ef20a2c13-0-0-ccf70f55aa2e7433ac96d20187f395e9/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-logo="http://tv.haoqu99.com/d/file/2014/0728/20140728091953388.jpg",河北卫视
-https://iptv.luas.edu.cn/liverespath/0d0303a991ca71e06290b546e34104dbe0d0c64a/74abada129-0-0-34b38d8efe2753c7dee5ad27d4472646/index.m3u8
+https://iptv.luas.edu.cn/liverespath/0d0303a991ca71e06290b546e34104dbe0d0c64a/ee3a628657-0-0-8d662fa26fae3e5e9916b7c2483fc243/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-logo="http://tv.haoqu99.com/d/file/2016/0918/small73213233b2a32b0d5839d7e32ad63a861474464985.jpg",吉林卫视
-https://iptv.luas.edu.cn/liverespath/44a878b1782810307d4d6918ae1da1712976350e/6962f0555e-0-0-9412b7b55ec1384c5d93ce1cff0bd09e/index.m3u8
+http://hls.live.cqccn.com/__cl/cg:live/__c/jilinHD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-logo="http://tv.haoqu99.com/d/file/2016/1008/8609a72d8c05bfb1d52283eb86554a5c.jpg",广西卫视
 http://hls.live.cqccn.com/__cl/cg:live/__c/guangxiHD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-logo="http://tv.haoqu99.com/d/file/2016/1024/f397e48e67b7864156e6c8b241d7b9c6.jpg",山西卫视
-https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/f3sqhR0.m3u8
+https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/v2sh8gV.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-logo="http://tv.haoqu99.com/d/file/2016/0918/small6a3f2e4c655c854f5b5758ece04e3a611474464890.jpg",陕西卫视
-https://iptv.luas.edu.cn/liverespath/ebc9ec3e297c071df95d759b6313b9d9dbc3dbda/560a63301b-0-0-5e49540f7454421e742269a1a3464134/index.m3u8
-#EXTINF:-1 group-title="卫视台" tvg-logo="http://tv.haoqu99.com/d/file/2016/0918/4508a64148d483ba76423102a0e94c7f.jpg",内蒙古卫视
-https://iptv.luas.edu.cn/liverespath/5a601b122fcaacb6480b65cb74ee8f76347020d6/bff8cb3894-0-0-b633b5dfeba92e6499556391f2ca376e/index.m3u8
+https://iptv.luas.edu.cn/liverespath/ebc9ec3e297c071df95d759b6313b9d9dbc3dbda/78339d8bbf-0-0-4b7b3e605c06128b4a3987969fb4fc01/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-logo="http://tv.haoqu99.com/d/file/2016/0918/216cc194a526fa24661f5bce9c0754da.jpg",宁夏卫视
 http://hls.live.cqccn.com/__cl/cg:live/__c/ningxia/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-logo="http://tv.haoqu99.com/d/file/2016/0918/90cb836366ca9bb36ad60ab4741938bc.jpg",西藏卫视
@@ -126,13 +124,13 @@ http://hls.live.cqccn.com/__cl/cg:live/__c/xizangSD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-logo="http://tv.haoqu99.com/d/file/2016/0918/small120325aa990a921f870c82470839952a1474194240.jpg",新疆卫视
 http://hls.live.cqccn.com/__cl/cg:live/__c/xinjiangSD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-logo="http://tv.haoqu99.com/d/file/2016/1008/86cbea4ba5011f81ec76c9a2d89acb93.jpg",甘肃卫视
-https://iptv.luas.edu.cn/liverespath/975463fd39229112f75925af024d6ed11de84a0e/15d608c92f-0-0-7c795994a9e8b99cdac33fb341adf412/index.m3u8
+https://iptv.luas.edu.cn/liverespath/975463fd39229112f75925af024d6ed11de84a0e/67d2f7d922-0-0-f68d312b19e99c0bb9decf3773b48613/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-logo="http://tv.haoqu99.com/d/file/2019/0622/smallafea8975ac2891a5620dce337eaaa175.jpg",海南卫视
 http://hls.live.cqccn.com/__cl/cg:live/__c/hainanSD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-logo="http://tv.haoqu99.com/d/file/2014/0116/20140116013257852.jpg",贵州卫视
 http://hls.live.cqccn.com/__cl/cg:live/__c/guizhouHD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-logo="http://tv.haoqu99.com/d/file/2016/0918/small0a2c71268d2e230752f374bb5dd1da691474980739.jpg",青海卫视
-http://hls.live.cqccn.com/__cl/cg:live/__c/qinghaiSD/__op/default/__f/index.m3u8
+http://stream.qhbtv.com/qhws/sd/live.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-logo="http://tv.haoqu99.com/d/file/2016/0911/7b38f2e557f39b45e0420239f65500b9.jpg",兵团卫视
 http://hls.live.cqccn.com/__cl/cg:live/__c/bingtuanSD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-logo="http://tv.haoqu99.com/d/file/2016/0911/db61c54f57c1c3b55e81f492bafbaa78.jpg",三沙卫视
