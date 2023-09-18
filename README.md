@@ -1,5 +1,5 @@
 # IPTV
-IPTV直播源抓取 (定期自动更新)
+IPTV直播源抓取 (暂设每日自动更新 17：00)
 
 自动整合 好趣网直播源+月光宝盒Box直播源 择取分辨率、速度最佳视频流
 
@@ -15,3 +15,6 @@ IPTV直播源抓取 (定期自动更新)
 [央视台+卫视台直播源](https://raw.githubusercontent.com/joevess/IPTV/main/home.m3u8)
 
 [央视台+卫视台+其他地方台直播源](https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8)（暂不全,待完善）
+
+
+各位有比较优质的直播源，可以私我，我会抽时间加入整合~
