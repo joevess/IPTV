@@ -8,13 +8,13 @@ IPTV直播源抓取 (每日自动更新)
 
 [央视台+卫视台直播源](https://ghproxy.com/https://raw.githubusercontent.com/joevess/IPTV/main/home.m3u8)
 
-[央视台+卫视台+其他地方台直播源](https://ghproxy.com/https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8)（暂不全,待完善）
+[央视台+卫视台+其他地方台直播源](https://ghproxy.com/https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8)
 
 国外：
 
 [央视台+卫视台直播源](https://raw.githubusercontent.com/joevess/IPTV/main/home.m3u8)
 
-[央视台+卫视台+其他地方台直播源](https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8)（暂不全,待完善）
+[央视台+卫视台+其他地方台直播源](https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8)
 
 
 各位有比较优质的直播源，可以私我，我会抽时间加入整合~
