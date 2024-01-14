@@ -1,14 +1,14 @@
 # IPTV
 IPTV直播源抓取 (定期更新)
 
-自动整合 好趣网直播源+月光宝盒Box直播源+其他网上直播源 择取分辨率、速度最佳视频流
+自动整合 好趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流
 
 
 国内加速：
 
-[央视台+卫视台直播源](https://ghproxy.com/https://raw.githubusercontent.com/joevess/IPTV/main/home.m3u8)
+[央视台+卫视台直播源](https://ghps.cc//https://raw.githubusercontent.com/joevess/IPTV/main/home.m3u8)
 
-[央视台+卫视台+其他地方台直播源](https://ghproxy.com/https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8)
+[央视台+卫视台+其他地方台直播源](https://ghps.cc//https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8)
 
 国外：
 
