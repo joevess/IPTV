@@ -1,0 +1,2 @@
+CGTN英语,https://live.cgtn.com/1000/prog_index.m3u8
+CGTN英语,https://live-wuxi.cgtn.com/live/wx_cgtn_1000k_internalnormal.m3u8
