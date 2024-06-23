@@ -4,13 +4,13 @@
 
 ## 国内加速：
 
-- [央视台+卫视台直播源](https://mirror.ghproxy.com/https://raw.githubusercontent.com/joevess/IPTV/main/home.m3u8)
+- [央视台+卫视台直播源](https://mirror.ghproxy.com/raw.githubusercontent.com/joevess/IPTV/main/home.m3u8)
 
-- [央视台+卫视台直播源(含备用源)](https://mirror.ghproxy.com/https://raw.githubusercontent.com/joevess/IPTV/main/sources/home_sources.m3u8)
+- [央视台+卫视台直播源(含备用源)](https://mirror.ghproxy.com/raw.githubusercontent.com/joevess/IPTV/main/sources/home_sources.m3u8)
 
-- [央视台+卫视台+其他地方台直播源](https://mirror.ghproxy.com/https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8)
+- [央视台+卫视台+其他地方台直播源](https://mirror.ghproxy.com/raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8)
 
-- [央视台+卫视台+其他地方台直播源(含备用源)](https://mirror.ghproxy.com/https://raw.githubusercontent.com/joevess/IPTV/main/sources/iptv_sources.m3u8)
+- [央视台+卫视台+其他地方台直播源(含备用源)](https://mirror.ghproxy.com/raw.githubusercontent.com/joevess/IPTV/main/sources/iptv_sources.m3u8)
 
 
 ## 直连访问：
