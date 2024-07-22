@@ -1,2 +1,3 @@
+TVB无线新闻台,https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_C_h264/__op/bks/__f/index.m3u8
 CGTN英语,https://live.cgtn.com/1000/prog_index.m3u8
 CGTN英语,https://live-wuxi.cgtn.com/live/wx_cgtn_1000k_internalnormal.m3u8
